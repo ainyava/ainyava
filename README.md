@@ -21,13 +21,17 @@ Currently I'm interested in Golang / Rust for web development and building relia
     <img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white">
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white">
     <img alt="Amazon S3" src="https://img.shields.io/badge/-AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white">
     <img alt="Nginx" src="https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white">
     <img alt="KongHQ" src="https://img.shields.io/badge/-KongHQ-003459?style=flat-square&logo=kong&logoColor=white">
     <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-2496ED?style=flat-square&logo=prometheus&logoColor=white">
     <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
     <img alt="FluentD" src="https://img.shields.io/badge/-FluentD-0E83C8?style=flat-square&logo=fluentd&logoColor=white">
+    <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-FC6D26?style=flat-square&logo=argo&logoColor=white" />
+    <img alt="GitlabCI" src="https://img.shields.io/badge/-GitlabCI-EC4A3F?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />  
     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-EBD41B?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -36,14 +40,16 @@ Currently I'm interested in Golang / Rust for web development and building relia
     <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-3A3A3A?style=flat-square&logo=cypress&logoColor=white" />
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-913E56?style=flat-square&logo=jest&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+    <img alt="Rollup.js" src="https://img.shields.io/badge/-Rollup-FC6D26?style=flat-square&logo=rollup.js&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux/SAGA-603092?style=flat-square&logo=redux&logoColor=white">
     <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-blue?style=flat-square&logo=mui&logoColor=white">
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="GitlabCI" src="https://img.shields.io/badge/-GitlabCI-EC4A3F?style=flat-square&logo=gitlab&logoColor=white" />
-    <img alt="Rollup.js" src="https://img.shields.io/badge/-Rollup-FC6D26?style=flat-square&logo=rollup.js&logoColor=white" />
-    <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-FC6D26?style=flat-square&logo=argo&logoColor=white" />
     <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+    <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
+    <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white">
+    <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">
   </p>
   
 </p>
