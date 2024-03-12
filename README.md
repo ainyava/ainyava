@@ -56,17 +56,16 @@ Currently I'm interested in Golang / Rust for web development and building relia
 <h3 align="left">Interested in my work?</h3>
 <p align="left">
   <a href="mailto:ainyava@gmail.com" target="_blank">
-    <img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Gmail" width="40">
-    
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ainyava" target="_blank">
-    <img src="https://camo.githubusercontent.com/b188fbcb81e70ca14a68a0747b4e1f89f08777dd4812a8bf8c89ece7bf38d3c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532334434343633382e7376673f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Linkedin" width="40">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
   </a>
-  <!-- <a href="https://stackoverflow.com/users/6277642/hamed-mahmoudkhani" target="_blank">
-    <img src="" alt="Stackoverflow" width="40">
-  </a> -->
+  <a href="https://stackoverflow.com/users/6277642/hamed-mahmoudkhani" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white" />
+  </a>
   <a href="https://t.me/ainyava" target="_blank">
-    <img src="https://camo.githubusercontent.com/f27e49f6c63a962dad03b1465e818dfd079dc668654c2b792d9318614014eeb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d2532333030383843432e7376673f6c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" width="40">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" />
   </a>
 </p>
 
