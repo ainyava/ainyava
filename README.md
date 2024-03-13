@@ -52,22 +52,22 @@ Currently I'm interested in Golang / Rust for web development and building relia
     <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">
   </p>
   
-</p>
-<h3 align="left">Interested in my work?</h3>
-<p align="left">
-  <a href="mailto:ainyava@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ainyava" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/6277642/hamed-mahmoudkhani" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=plastic&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://t.me/ainyava" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white" />
-  </a>
-</p>
+  </p>
+  <h3 align="left">Interested in my work?</h3>
+  <p align="left">
+    <a href="mailto:ainyava@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/ainyava" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/6277642/hamed-mahmoudkhani" target="_blank">
+      <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
+    </a>
+    <a href="https://t.me/ainyava" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+    </a>
+  </p>
 
 <h3 align="left">My stats</h3>
 <p>
